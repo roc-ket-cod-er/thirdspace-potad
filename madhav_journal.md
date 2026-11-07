@@ -50,6 +50,10 @@ I also fixed a few unconnected pins.
 
 <img width="502" height="234" alt="image" src="https://github.com/user-attachments/assets/dbfd3f23-1f15-4abb-956c-a819fc2ed49b" />
 
+### ReadMe
+
+And then I spent 1h15 on the ReadMe, I really added a lot of detail on how each component is wired up and everything and it should be very very detailed! The pictures of the individual pieces is only possible because of my last 9 hours of work cleaning up the schematic!!!
+
 
 ## 11/5 and 11/6
 
