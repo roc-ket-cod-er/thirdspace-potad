@@ -1,5 +1,14 @@
 My running journal entry!
 
+## 11/8
+
+More readme cleanup!!
+
+This schematic I kinda forgot to clean up D:
+
+<img width="475" height="839" alt="image" src="https://github.com/user-attachments/assets/7de59b18-89e1-4e1d-b93b-0318ceba094a" />
+
+
 ## 11/7
 
 So far I've been working on simplifying the schematics, again, and here's what I've got so far!
