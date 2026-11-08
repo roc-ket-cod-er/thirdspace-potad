@@ -37906,7 +37906,7 @@
 	)
 	(wire
 		(pts
-			(xy 853.44 1196.34) (xy 853.44 1191.26)
+			(xy 855.98 1196.34) (xy 855.98 1191.26)
 		)
 		(stroke
 			(width 0)
@@ -41196,16 +41196,6 @@
 	)
 	(wire
 		(pts
-			(xy 853.44 1191.26) (xy 855.98 1191.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7082d364-2c83-4789-a4ff-a8ffe1bab809")
-	)
-	(wire
-		(pts
 			(xy 529.59 730.25) (xy 527.05 730.25)
 		)
 		(stroke
@@ -42756,7 +42746,7 @@
 	)
 	(wire
 		(pts
-			(xy 915.67 1192.53) (xy 915.67 1191.26)
+			(xy 915.67 1197.61) (xy 915.67 1191.26)
 		)
 		(stroke
 			(width 0)
@@ -66016,7 +66006,7 @@
 	)
 	(symbol
 		(lib_id "power:GND1")
-		(at 915.67 1192.53 0)
+		(at 915.67 1197.61 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -66027,7 +66017,7 @@
 		(fields_autoplaced yes)
 		(uuid "43d060ed-a1e2-49db-9729-d669d6180a8e")
 		(property "Reference" "#PWR0124"
-			(at 915.67 1198.88 0)
+			(at 915.67 1203.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -66038,7 +66028,7 @@
 			)
 		)
 		(property "Value" "GND1"
-			(at 918.21 1193.7999 0)
+			(at 918.21 1198.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -66049,7 +66039,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 915.67 1192.53 0)
+			(at 915.67 1197.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -66060,7 +66050,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 915.67 1192.53 0)
+			(at 915.67 1197.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -66071,7 +66061,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND1\" , ground"
-			(at 915.67 1192.53 0)
+			(at 915.67 1197.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68090,7 +68080,7 @@
 	)
 	(symbol
 		(lib_id "power:GND1")
-		(at 853.44 1196.34 0)
+		(at 855.98 1196.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -68100,7 +68090,7 @@
 		(dnp no)
 		(uuid "5742c9c2-1510-40aa-94be-45ca75f2b44b")
 		(property "Reference" "#PWR094"
-			(at 853.44 1202.69 0)
+			(at 855.98 1202.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68111,7 +68101,7 @@
 			)
 		)
 		(property "Value" "GND1"
-			(at 850.9 1200.658 0)
+			(at 853.44 1200.658 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -68122,7 +68112,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 853.44 1196.34 0)
+			(at 855.98 1196.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68133,7 +68123,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 853.44 1196.34 0)
+			(at 855.98 1196.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68144,7 +68134,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND1\" , ground"
-			(at 853.44 1196.34 0)
+			(at 855.98 1196.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
