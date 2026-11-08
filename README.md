@@ -161,6 +161,30 @@ Compared to the other ICs, the TFP is much bigger, at 14 x 14 mm, and well yeah!
 
 Well yeah as you can see it actually has leads and stuff which is part of the reason why it's almost 1.5 x 1.5 cm in size.
 
+It was a bit annoying to work with because of how the ground and power pins were everywhere, hence you can see a not so good schematic in places... I wish I'd just made a new schematic block not going to lie.
+
+Here look at what I mean:
+
+<img width="1054" height="523" alt="image" src="https://github.com/user-attachments/assets/c661294e-1f45-4fa1-bfbb-da3f5961b6e6" />
+
+Like you know power should be facing upwards, but ... well it's really not possible to do that :(
+
+Thankfully, the sides aren't nearly as bad, because of the way that they just are!
+
+<img width="285" height="467" alt="image" src="https://github.com/user-attachments/assets/5b781c92-c43e-4ce1-b0dd-47d5dbef9799" />
+
+I know I should have cleaned that schematic up a bit, but right now I'm not supposed to be editing the schematic file so I really can't. The same thing applies to the right side:
+
+<img width="253" height="663" alt="image" src="https://github.com/user-attachments/assets/e94467e1-f47b-4bac-b2bb-dd7a5336efa3" />
+
+Of course it's super nice the fact that it's just No Connect pins, but even then I couldn't be bothered to fix the schematic after spending 10 hours doing the rest D:
+
+Then, of course, There's the top that is *even more cooked*.
+
+<img width="878" height="608" alt="image" src="https://github.com/user-attachments/assets/e31ad372-c9e7-4342-aec3-45499b075ef7" />
+
+Welp hey at least it's kinda nice looking and not *completely* cooked.
+
 #### USB
 
 And of course, we have USB ports because they are super nice, two of each type!
